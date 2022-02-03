@@ -29,8 +29,7 @@ public class player : MonoBehaviour
              Debug.Log("pass space");
         }
 
-        // horizontalnput=Input.GetAxis("Horizontal");
-        // GetComponent<Rigidbody>().velocity=new Vector3(horizontalnput,GetComponent<Rigidbody>().velocity.y,0);
+       
     }
     
     void FixedUpdate()
