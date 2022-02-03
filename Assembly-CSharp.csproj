@@ -36,8 +36,9 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\script\player.cs" />
      <Compile Include="Assets\script\Cameracontroller.cs" />
+     <Compile Include="Assets\script\player.cs" />
+     <Compile Include="Assets\script\Rotator.cs" />
     <Reference Include="UnityEngine">
         <HintPath>G:\game development\unity project\2020.3.22f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
