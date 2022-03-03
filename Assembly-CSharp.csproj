@@ -36,9 +36,11 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\script\MainMenu.cs" />
      <Compile Include="Assets\script\Cameracontroller.cs" />
      <Compile Include="Assets\script\player.cs" />
      <Compile Include="Assets\script\Rotator.cs" />
+     <Compile Include="Assets\script\Timer.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
